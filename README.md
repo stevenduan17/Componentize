@@ -1,4 +1,4 @@
-## :bangbang:ARouter在使用kotlin集成时遇到的几点问题
+## :warning:ARouter在使用kotlin集成时遇到的几点问题
 
 #### :white_check_mark:1. 传参：需要接收的成员变量需要暴露且非私有
 ```kotlin
