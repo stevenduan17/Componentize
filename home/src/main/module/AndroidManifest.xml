@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.steven.home">
+    <application
+        android:name="debug.HomeApplication"
+        android:allowBackup="true"
+        android:label="@string/home_app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+    </application>
+</manifest>
